@@ -1,0 +1,10 @@
+:root {
+  /* 文本颜色 */
+  --text-color:#000;
+  /* 背景颜色 */
+  --background-color: #eff;
+  /* 文本聚焦颜色 */
+  --text-focus-color: red;
+  /* 背景聚焦颜色 */
+  --background-focus-color: pink
+}
